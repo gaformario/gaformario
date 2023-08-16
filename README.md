@@ -1,11 +1,12 @@
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
+---
 
 ### Hi there 😃
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I am currently a student of Information Systems at ESPM.\
+💡 &nbsp; I am currently a student of Information Systems at ESPM TECH.\
 💻 &nbsp;I'm currently open to interning in multiple technology fields in order to learn more and more.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, FullStack Development and Cloud Programming. These specific topics are what I would like to learn more and enjoy.
 
@@ -31,6 +32,13 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=square&logo=mysql)
 ![Cisco](https://img.shields.io/badge/Cisco-black?style=square&logo=cisco)
 ![Discord](https://img.shields.io/badge/Discord-black?style=square&logo=discord)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gaformario&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaformario&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### 🙋‍♂️ &nbsp; How to find me:
 
