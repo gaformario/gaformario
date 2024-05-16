@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I am currently a student of Information Systems at ESPM TECH.\
+💡 &nbsp; I am currently a student of Information Systems at ESPM SP.\
 💻 &nbsp;I'm currently open to interning in multiple technology fields in order to learn more and more.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, FullStack Development and Cloud Programming. These specific topics are what I would like to learn more and enjoy.
 
