@@ -12,32 +12,24 @@
 
 ### 🛠 &nbsp;Current Learning/Studying Tech Stack 
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=square&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=squaret&logo=github)&nbsp;
-
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=square&logo=anaconda&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=square&logo=node.js&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=square&logo=bootstrap&logoColor=563D7C)
-![Arduino](https://img.shields.io/badge/Arduino-black?style=square&logo=arduino)
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=square&logo=openjdk&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=squaret&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=square&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=square&logo=javascript)&nbsp;
-
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=square&logo=mysql)
-![Cisco](https://img.shields.io/badge/Cisco-black?style=square&logo=cisco)
-![Discord](https://img.shields.io/badge/Discord-black?style=square&logo=discord)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-065091?style=flat-square&logo=jquery&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-0D9996?style=flat-square&logo=mysql&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+<br>
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-d4bd02?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gaformario&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaformario&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![MyLang](https://github-readme-stats.vercel.app/api/top-langs/?username=gaformario&layout=compact&theme=github_dark&border_radius=10&include_all_commits=true&langs_count=6&hide_border=true&title_color=4ea94b&icon_color=7e002f)
 
 ---
 
