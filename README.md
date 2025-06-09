@@ -48,7 +48,7 @@
 
 <h2 align="left"> About Me</h2>
 
-- 💡 I'm currently a student of **Information Systems** at **ESPM SP** and **Software Developer** Intern at Khipo.  
+- 💡 I'm currently a 6th-semester **Information Systems** student at **ESPM-Tech SP** and **Software Developer** Intern at Khipo.  
 - 🌱 Passionate about learning more in:
   - **Artificial Intelligence**
   - **Full Stack Development**
