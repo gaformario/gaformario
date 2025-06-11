@@ -96,3 +96,8 @@
 <img src="https://raw.githubusercontent.com/gaformario/gaformario/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p > 
+  <img src="https://profile-counter.glitch.me/gaformario/count.svg" />
+</p>
+
