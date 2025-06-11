@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sahar&size=45&duration=3000&pause=500&color=F7F7F7&vCenter=true&width=435&lines=Gabriel+Formario;Software+Developer)](https://git.io/typing-svg)
+
+###
+
 <h1 align="left">Technologies Knowledge</h1>
 
 ###
