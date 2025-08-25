@@ -41,7 +41,7 @@
 
 <h2 align="left"> About Me</h2>
 
-- 💡 I'm currently in the 6th semester of the **Information Systems** program at **ESPM-Tech SP**, while gaining hands-on experience as a **Software Developer Intern** at *Khipo*.  
+- 💡 I'm currently in the 7th semester of the **Information Systems** program at **ESPM-Tech SP** and have gained hands-on experience as a **Software Developer Intern** at *Khipo*.  
 - 🌱 Passionate about expanding my knowledge in **Full Stack Development**, **Cloud Computing** and **Artificial Intelligence**.
 
 ###
