@@ -67,7 +67,3 @@
 
 ###
 
-<p > 
-  <img src="https://profile-counter.glitch.me/gaformario/count.svg" />
-</p>
-
